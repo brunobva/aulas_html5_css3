@@ -1,0 +1,30 @@
+body {
+    background-color: lightcyan;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+.img_padrao {
+    margin-bottom: 30px;
+    width: 250px;
+}
+h1 { 
+    color:black;
+    font-family: cursive;
+    font-size: larger;
+}
+
+h2 {
+    color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: smaller;
+}   
